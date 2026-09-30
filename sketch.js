@@ -8,6 +8,9 @@ function draw() {
   fill('navy');
   rect(50, 50, 325, 1500);
 
+  fill('purple');
+  rect(50, 325, 100, 1500);
+
   fill('orange');
   circle(300, 750, 450);
 }

@@ -4,6 +4,8 @@ function setup() {
 
 function draw() {
   background(237, 34, 93);
+
+  fill('white');
   rect(50, 50, 325, 1500);
 
   fill('orange');

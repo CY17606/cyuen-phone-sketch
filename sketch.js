@@ -9,5 +9,5 @@ function draw() {
   rect(50, 50, 325, 1500);
 
   fill('orange');
-  circle(300, 100, 100);
+  circle(300, 750, 450);
 }
